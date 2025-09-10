@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 阿辉的博客</title>
+    <link>https://luckyou.asia/tags/hugo/</link>
+    <description>Recent content in Hugo on 阿辉的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 26 Aug 2025 14:42:15 +0800</lastBuildDate>
+    <atom:link href="https://luckyou.asia/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World：我的第一个网站诞生记</title>
+      <link>https://luckyou.asia/posts/helloworld/</link>
+      <pubDate>Tue, 26 Aug 2025 14:42:15 +0800</pubDate>
+      <guid>https://luckyou.asia/posts/helloworld/</guid>
+      <description>&lt;h2 id=&#34;旅程的开始&#34;&gt;旅程的开始&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;欢迎来到我的博客！&lt;/strong&gt; 这是我发布的第一篇文章，标志着我的个人网站 &lt;code&gt;luckyou.asia&lt;/code&gt; 终于正式上线了。从一个想法到拥有一个可以随时访问的网站，这个过程充满了学习和挑战，也带来了巨大的成就感。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;整个过程就像是探索一片新大陆，每解决一个问题，地图上就点亮一个新的区域。&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;我都做了些什么&#34;&gt;我都做了些什么？&lt;/h3&gt;&#xA;&lt;p&gt;能成功看到这个页面，说明我已经完成了以下所有步骤：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;购买域名&lt;/strong&gt;：拥有了 &lt;code&gt;luckyou.asia&lt;/code&gt; 这个独一无二的地址。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;购买服务器&lt;/strong&gt;：在阿里云拥有了一台ECS云服务器作为网站的“家”。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;域名解析&lt;/strong&gt;：设置了DNS，让域名能够准确找到服务器的IP地址。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;部署Web服务器&lt;/strong&gt;：在服务器上安装并运行了强大的 Nginx。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;配置安全证书&lt;/strong&gt;：通过 Certbot 申请了免费的SSL证书，让网站实现了 &lt;code&gt;https://&lt;/code&gt; 安全访问。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;学习 Hugo&lt;/strong&gt;：选择了 Hugo 这个静态网站生成器来构建我的博客内容。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;未来的计划&#34;&gt;未来的计划&lt;/h2&gt;&#xA;&lt;p&gt;这个网站目前还很简单，但它是一个全新的起点。接下来我计划：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;分享更多关于技术的学习笔记。&lt;/li&gt;&#xA;&lt;li&gt;记录生活中有趣的事情。&lt;/li&gt;&#xA;&lt;li&gt;把网站的样式打造得更具个性化。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;如果你对我建站的过程感兴趣，可以看看下面这个 Nginx 的重启命令，这是我经常用到的一个指令。&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# 重启 Nginx 服务的命令&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo systemctl restart nginx&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
